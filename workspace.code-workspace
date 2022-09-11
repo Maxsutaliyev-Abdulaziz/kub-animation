@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Prektlar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "animatsiya"
+	}
+}
